@@ -284,3 +284,7 @@ java.net.UnknownHostException: "47.185.221.24": Name or service not known
 [15:37:35] [User Authenticator #1/INFO]: UUID of player Itsantiago19 is 0108f499-1057-35f6-924a-6e81c31d8906
 [15:37:36] [Server thread/INFO]: Itsantiago19 joined the game
 [15:37:36] [Server thread/INFO]: Itsantiago19[/127.250.11.53:33381] logged in with entity id 1116 at ([world]1945.9206181739194, 63.0, 3470.5855230740485)
+[15:46:37] [Server thread/INFO]: Vonxoh issued server command: /home
+[15:53:58] [Server thread/INFO]: Vonxoh issued server command: /homer
+[15:54:01] [Server thread/INFO]: Vonxoh issued server command: /home
+[15:55:07] [Server thread/INFO]: Itsantiago19 has made the advancement [Diamonds!]
