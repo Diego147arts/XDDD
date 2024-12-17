@@ -278,3 +278,8 @@
 [23:05:25] [Server thread/INFO]: Vonxoh lost connection: Disconnected
 [23:05:25] [Server thread/INFO]: [voicechat] Disconnecting client Vonxoh
 [23:05:25] [Server thread/INFO]: Vonxoh left the game
+[23:47:09] [User Authenticator #1/INFO]: UUID of player Vonxoh is e8d19d2f-9f81-3a7c-b9b7-f2912b377061
+[23:47:09] [Server thread/INFO]: Vonxoh joined the game
+[23:47:09] [Server thread/INFO]: Vonxoh[/127.25.12.203:52957] logged in with entity id 10515 at ([world]1933.5, 66.0, 3459.5)
+[23:47:09] [Server thread/INFO]: [voicechat] Received secret request of Vonxoh (18)
+[23:47:09] [Server thread/INFO]: [voicechat] Sent secret to Vonxoh
