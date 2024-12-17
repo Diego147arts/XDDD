@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1734461083813
+  logout: 1734466661892
   login: 1734465307793
 money: '0'
 last-account-name: Vonxoh
 logoutlocation:
   world: 7e1db897-19ad-4801-bf4e-79b495ad012d
   world-name: world
-  x: 1954.699999988079
+  x: 1946.7979761696463
   y: 63.0
-  z: 3431.2099196900253
-  yaw: -138.43023681640625
-  pitch: 5.399545192718506
+  z: 3445.478869905856
+  yaw: -167.4407958984375
+  pitch: 3.750331401824951
 lastlocation:
   world: 3fa424f8-ebab-4639-a169-57a98ad85051
   world-name: world_nether
