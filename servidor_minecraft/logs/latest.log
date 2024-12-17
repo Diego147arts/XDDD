@@ -273,3 +273,11 @@
 [19:55:07] [Server thread/INFO]: Vonxoh[/127.25.12.203:57571] logged in with entity id 1555 at ([world]1951.8217086710765, 63.0, 3440.460929429699)
 [19:55:08] [Server thread/INFO]: [voicechat] Received secret request of Vonxoh (18)
 [19:55:08] [Server thread/INFO]: [voicechat] Sent secret to Vonxoh
+[19:58:21] [Server thread/WARN]: Vonxoh moved too quickly! -0.300889592434487,0.8800391385729398,12.532894153049256
+[20:00:47] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /give vonxoh iron_lingot 30
+[20:00:47] [Server thread/INFO]: Error: Unknown item name: iron_lingot.
+[20:02:10] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[20:02:45] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[20:02:55] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[20:03:14] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /give Vonxoh iron_ingot 30
+[20:03:14] [Server thread/INFO]: Giving 30 of iron ingot to Vonxoh.
