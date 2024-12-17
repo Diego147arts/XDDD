@@ -16,7 +16,7 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1734461083799
+  logout: 1734467888788
   login: 1734464831891
   kits:
     tools: 1734467780244
@@ -25,11 +25,11 @@ last-account-name: riperior_
 logoutlocation:
   world: 7e1db897-19ad-4801-bf4e-79b495ad012d
   world-name: world
-  x: 632.8567992416295
-  y: 66.0
-  z: 2350.6769233965074
-  yaw: 170.98828125
-  pitch: 40.86491012573242
+  x: 620.4639540910266
+  y: -20.0
+  z: 2348.851822976128
+  yaw: 91.92153930664062
+  pitch: 20.85393524169922
 lastlocation:
   world: 3fa424f8-ebab-4639-a169-57a98ad85051
   world-name: world_nether
