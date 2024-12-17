@@ -11,31 +11,31 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1734451477496
+  lastteleport: 1734460255967
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1734412203266
-  login: 1734449856043
+  logout: 1734461083824
+  login: 1734460175337
 money: '0'
 last-account-name: Itsantiago19
 lastlocation:
   world: 7e1db897-19ad-4801-bf4e-79b495ad012d
   world-name: world
-  x: 2076.300000011921
-  y: -51.0
-  z: 3316.8712502184076
-  yaw: 139.72100830078125
-  pitch: 6.2429327964782715
+  x: 2042.870125538282
+  y: -48.0
+  z: 3300.84806353733
+  yaw: 12.1011962890625
+  pitch: 23.230854034423828
 logoutlocation:
   world: 7e1db897-19ad-4801-bf4e-79b495ad012d
   world-name: world
-  x: 1945.9206181739194
-  y: 63.0
-  z: 3470.5855230740485
-  yaw: 2.99658203125
-  pitch: 16.388816833496094
+  x: 1939.5
+  y: 63.6875
+  z: 3464.5
+  yaw: -23.7977294921875
+  pitch: 0.0
 homes:
   home:
     world: 7e1db897-19ad-4801-bf4e-79b495ad012d

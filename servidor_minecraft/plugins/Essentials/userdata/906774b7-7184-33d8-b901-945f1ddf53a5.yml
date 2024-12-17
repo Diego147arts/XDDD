@@ -11,13 +11,13 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1734456155010
+  lastteleport: 1734462465123
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
   logout: 1734411090571
-  login: 1734455768216
+  login: 1734462349112
 money: '0'
 last-account-name: teminik
 logoutlocation:
@@ -34,5 +34,5 @@ lastlocation:
   x: 19.5
   y: 71.0625
   z: 1332.5
-  yaw: 179.160400390625
-  pitch: 0.5997116565704346
+  yaw: -180.0
+  pitch: 0.0
