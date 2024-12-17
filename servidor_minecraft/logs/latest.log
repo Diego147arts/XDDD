@@ -303,3 +303,20 @@ java.net.UnknownHostException: "47.185.221.24": Name or service not known
 [17:17:42] [Async Chat Thread - #0/INFO]: [Not Secure] <teminik> zz?
 [17:17:56] [Async Chat Thread - #1/INFO]: [Not Secure] <Vonxoh> zzz
 [17:19:03] [Async Chat Thread - #2/INFO]: [Not Secure] <teminik> zzzzzzzzzzzzzz!!!
+[17:22:29] [Server thread/INFO]: teminik was blown up by Creeper
+[17:22:35] [Server thread/INFO]: teminik issued server command: /back
+[17:22:48] [Server thread/INFO]: chemesito lost connection: Disconnected
+[17:22:48] [Server thread/INFO]: [voicechat] Disconnecting client chemesito
+[17:22:48] [Server thread/INFO]: chemesito left the game
+[17:23:20] [User Authenticator #4/INFO]: UUID of player chemesito is 39dc8797-0ea4-3a57-8f1e-4ffb8c41b19f
+[17:23:20] [Server thread/INFO]: chemesito joined the game
+[17:23:20] [Server thread/INFO]: chemesito[/127.103.16.147:50671] logged in with entity id 7826 at ([world]1944.3309755526654, 63.875, 3451.7943120476693)
+[17:23:50] [Server thread/INFO]: chemesito lost connection: Disconnected
+[17:23:50] [Server thread/INFO]: [voicechat] Disconnecting client chemesito
+[17:23:50] [Server thread/INFO]: chemesito left the game
+[17:24:00] [User Authenticator #4/INFO]: UUID of player chemesito is 39dc8797-0ea4-3a57-8f1e-4ffb8c41b19f
+[17:24:00] [Server thread/INFO]: chemesito joined the game
+[17:24:00] [Server thread/INFO]: chemesito[/127.103.16.147:58847] logged in with entity id 8072 at ([world]1944.3309755526654, 63.875, 3451.7943120476693)
+[17:24:34] [Server thread/INFO]: Villager EntityVillager['Villager'/7616, uuid='5aaddc22-d1b7-47b6-9286-4899becdc705', l='ServerLevel[world]', x=1955.42, y=62.90, z=3450.03, cpos=[122, 215], tl=2243, v=true] died, message: 'Villager was slain by chemesito'
+[17:28:08] [Async Chat Thread - #4/INFO]: [Not Secure] <riperior_> porque no estan en ds putanik
+[17:28:20] [Async Chat Thread - #5/INFO]: [Not Secure] <Vonxoh> que
