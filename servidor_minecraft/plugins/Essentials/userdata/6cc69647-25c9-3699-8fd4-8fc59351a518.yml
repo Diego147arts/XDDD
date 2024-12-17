@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.119.205.145
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1734416474654
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1734416613819
+  login: 1734413761308
+  kits:
+    tools: 1734416430138
+money: '0'
+last-account-name: riperior_
+logoutlocation:
+  world: 7e1db897-19ad-4801-bf4e-79b495ad012d
+  world-name: world
+  x: 615.8914124723393
+  y: -14.0625
+  z: 2359.699999988079
+  yaw: 177.2376708984375
+  pitch: 16.655502319335938
+lastlocation:
+  world: 7e1db897-19ad-4801-bf4e-79b495ad012d
+  world-name: world
+  x: 677.910386253859
+  y: 73.02442408821369
+  z: 2418.74604575452
+  yaw: -93.07816314697266
+  pitch: 39.20624923706055
+homes:
+  home:
+    world: 7e1db897-19ad-4801-bf4e-79b495ad012d
+    world-name: world
+    x: 625.9965412222953
+    y: -14.0
+    z: 2368.397609279411
+    yaw: -85.90339660644531
+    pitch: 0.0

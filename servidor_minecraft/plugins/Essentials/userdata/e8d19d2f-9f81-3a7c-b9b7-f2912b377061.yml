@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.25.12.203
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1734416062717
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1734412079719
+  login: 1734449688562
+money: '0'
+last-account-name: Vonxoh
+logoutlocation:
+  world: 7e1db897-19ad-4801-bf4e-79b495ad012d
+  world-name: world
+  x: 1946.1165393355527
+  y: 63.0
+  z: 3450.832665921646
+  yaw: -116.5225830078125
+  pitch: 8.850648880004883
+lastlocation:
+  world: 3fa424f8-ebab-4639-a169-57a98ad85051
+  world-name: world_nether
+  x: 62.30000001192093
+  y: 100.0
+  z: 311.5706196223705
+  yaw: 146.9088134765625
+  pitch: 18.15416717529297
+homes:
+  home:
+    world: 7e1db897-19ad-4801-bf4e-79b495ad012d
+    world-name: world
+    x: 1933.2069285564598
+    y: 66.0
+    z: 3459.988060736929
+    yaw: -84.917724609375
+    pitch: 39.4496955871582

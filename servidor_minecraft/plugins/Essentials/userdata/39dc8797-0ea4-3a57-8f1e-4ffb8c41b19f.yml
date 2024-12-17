@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.103.16.147
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1734405277517
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1734406063669
+  login: 1734405476358
+money: '0'
+last-account-name: chemesito
+logoutlocation:
+  world: 7e1db897-19ad-4801-bf4e-79b495ad012d
+  world-name: world
+  x: 1942.1846206331086
+  y: 63.0
+  z: 3467.983326612842
+  yaw: 89.1169204711914
+  pitch: 2.3998847007751465
+lastlocation:
+  world: 7e1db897-19ad-4801-bf4e-79b495ad012d
+  world-name: world
+  x: 2178.3515618442743
+  y: 51.57416660977272
+  z: 3283.2752258817186
+  yaw: 119.52392578125
+  pitch: 13.94991397857666

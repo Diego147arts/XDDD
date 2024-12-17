@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.250.11.53
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1734410223339
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1734412203266
+  login: 1734449856043
+money: '0'
+last-account-name: Itsantiago19
+lastlocation:
+  world: 7e1db897-19ad-4801-bf4e-79b495ad012d
+  world-name: world
+  x: -822.7351964704062
+  y: 64.0
+  z: 124.58219966091835
+  yaw: -176.79910278320312
+  pitch: 9.568681716918945
+logoutlocation:
+  world: 7e1db897-19ad-4801-bf4e-79b495ad012d
+  world-name: world
+  x: 1945.9206181739194
+  y: 63.0
+  z: 3470.5855230740485
+  yaw: 2.99658203125
+  pitch: 16.388816833496094

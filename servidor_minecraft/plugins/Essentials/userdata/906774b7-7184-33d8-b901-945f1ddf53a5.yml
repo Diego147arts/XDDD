@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.195.159.87
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1734410529290
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1734411090571
+  login: 1734404185198
+money: '0'
+last-account-name: teminik
+logoutlocation:
+  world: 7e1db897-19ad-4801-bf4e-79b495ad012d
+  world-name: world
+  x: -79.08885309167964
+  y: 67.0
+  z: 1311.0290736692261
+  yaw: 11.781641006469727
+  pitch: 6.249784469604492
+lastlocation:
+  world: 7e1db897-19ad-4801-bf4e-79b495ad012d
+  world-name: world
+  x: 84.5
+  y: 76.0
+  z: -57.5
+  yaw: -45.0000114440918
+  pitch: 0.0

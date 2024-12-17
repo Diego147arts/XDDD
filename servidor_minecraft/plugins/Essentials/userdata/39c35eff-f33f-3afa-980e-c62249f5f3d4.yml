@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.156.169.11
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1734416730353
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1734404235780
+  login: 1734404937258
+money: '0'
+last-account-name: valvvalv
+logoutlocation:
+  world: 7e1db897-19ad-4801-bf4e-79b495ad012d
+  world-name: world
+  x: 48.26398737301688
+  y: 73.49520087700593
+  z: -0.4967485200907683
+  yaw: -38.1015625
+  pitch: 25.499982833862305
+lastlocation:
+  world: 7e1db897-19ad-4801-bf4e-79b495ad012d
+  world-name: world
+  x: 677.5763279201902
+  y: -44.0
+  z: 2553.699999988079
+  yaw: -91.8829345703125
+  pitch: 12.75009536743164

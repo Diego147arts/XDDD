@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: true
+muted: false
+jailed: false
+ip-address: 127.110.67.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1734410435342
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1734414766363
+  login: 1734404171512
+money: '0'
+last-account-name: _AfterCrafterYT_
+logoutlocation:
+  world: 7e1db897-19ad-4801-bf4e-79b495ad012d
+  world-name: world
+  x: 1952.7359793962567
+  y: 65.0
+  z: 3426.497022668438
+  yaw: -109.92694091796875
+  pitch: 11.99941635131836
+lastlocation:
+  world: 7e1db897-19ad-4801-bf4e-79b495ad012d
+  world-name: world
+  x: 81.22027293458899
+  y: 64.81362442289988
+  z: -22.50535196755217
+  yaw: 5.96441650390625
+  pitch: 29.071819305419922
+homes:
+  home:
+    world: 7e1db897-19ad-4801-bf4e-79b495ad012d
+    world-name: world
+    x: -2072.5975603174984
+    y: 103.0
+    z: 2956.754727711363
+    yaw: -77.56011962890625
+    pitch: 34.799530029296875

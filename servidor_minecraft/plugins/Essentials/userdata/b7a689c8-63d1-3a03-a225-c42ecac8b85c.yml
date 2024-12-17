@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.9.119.158
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1734416425536
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1734404127524
+  login: 1734404224409
+money: '0'
+last-account-name: Yellori
+logoutlocation:
+  world: 7e1db897-19ad-4801-bf4e-79b495ad012d
+  world-name: world
+  x: 45.450657957092325
+  y: 68.0
+  z: 4.580692922946248
+  yaw: -110.74151611328125
+  pitch: 44.6997184753418
+lastlocation:
+  world: 7e1db897-19ad-4801-bf4e-79b495ad012d
+  world-name: world
+  x: 651.6999999880791
+  y: 69.0
+  z: 2414.699999988079
+  yaw: 150.47007751464844
+  pitch: -43.95070266723633

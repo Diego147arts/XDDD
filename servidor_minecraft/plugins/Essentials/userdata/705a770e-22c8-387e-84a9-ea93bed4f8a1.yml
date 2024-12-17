@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.74.184.7
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1734416007420
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1734411014722
+  login: 1734411048108
+money: '0'
+last-account-name: kemblak_147
+logoutlocation:
+  world: 7e1db897-19ad-4801-bf4e-79b495ad012d
+  world-name: world
+  x: 282.04833261587
+  y: 76.0
+  z: 1622.3594052537642
+  yaw: -5.885498046875
+  pitch: -42.98435592651367
+lastlocation:
+  world: 7e1db897-19ad-4801-bf4e-79b495ad012d
+  world-name: world
+  x: 687.8294208490559
+  y: 67.0
+  z: 2343.543060770656
+  yaw: 14.2373046875
+  pitch: 36.02079772949219
