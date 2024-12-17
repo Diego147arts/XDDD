@@ -396,6 +396,7 @@
       "minecraft:skeleton": "2024-12-17 01:45:57 +0000",
       "minecraft:ravager": "2024-12-17 05:27:58 +0000",
       "minecraft:vindicator": "2024-12-17 05:26:37 +0000",
+      "minecraft:magma_cube": "2024-12-17 23:02:08 +0000",
       "minecraft:spider": "2024-12-17 01:47:24 +0000",
       "minecraft:creeper": "2024-12-17 02:49:55 +0000",
       "minecraft:evoker": "2024-12-17 05:33:02 +0000",
@@ -403,6 +404,7 @@
       "minecraft:witch": "2024-12-17 05:29:43 +0000",
       "minecraft:wither_skeleton": "2024-12-17 22:52:40 +0000",
       "minecraft:stray": "2024-12-17 01:16:35 +0000",
+      "minecraft:enderman": "2024-12-17 22:55:11 +0000",
       "minecraft:vex": "2024-12-17 05:33:32 +0000",
       "minecraft:zombie": "2024-12-17 01:18:38 +0000",
       "minecraft:drowned": "2024-12-17 01:47:16 +0000",
@@ -2062,6 +2064,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2024-12-17 23:02:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2024-12-17 22:54:05 +0000"
@@ -2104,6 +2112,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2024-12-17 23:02:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_slab": {
     "criteria": {
       "has_nether_bricks": "2024-12-17 22:53:02 +0000"
@@ -2131,6 +2145,12 @@
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-17 22:53:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-12-17 23:02:26 +0000"
     },
     "done": true
   },
