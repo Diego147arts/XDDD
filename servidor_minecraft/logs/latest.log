@@ -36,3 +36,9 @@
 [01:03:20] [Server thread/INFO]: Itsantiago19 lost connection: Disconnected
 [01:03:20] [Server thread/INFO]: [voicechat] Disconnecting client Itsantiago19
 [01:03:20] [Server thread/INFO]: Itsantiago19 left the game
+[01:20:14] [User Authenticator #3/INFO]: UUID of player chemesito is 39dc8797-0ea4-3a57-8f1e-4ffb8c41b19f
+[01:20:14] [Server thread/INFO]: chemesito joined the game
+[01:20:14] [Server thread/INFO]: chemesito[/127.103.16.147:39777] logged in with entity id 27172 at ([world]1944.244025736099, 63.0, 3457.384586197129)
+[01:21:02] [Server thread/INFO]: chemesito lost connection: Disconnected
+[01:21:02] [Server thread/INFO]: [voicechat] Disconnecting client chemesito
+[01:21:02] [Server thread/INFO]: chemesito left the game
