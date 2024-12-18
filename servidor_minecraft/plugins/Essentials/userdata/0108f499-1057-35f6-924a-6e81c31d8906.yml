@@ -16,7 +16,7 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1734461083824
+  logout: 1734483800582
   login: 1734483280330
 money: '0'
 last-account-name: Itsantiago19
@@ -31,11 +31,11 @@ lastlocation:
 logoutlocation:
   world: 7e1db897-19ad-4801-bf4e-79b495ad012d
   world-name: world
-  x: 1939.5
-  y: 63.6875
-  z: 3464.5
-  yaw: -23.7977294921875
-  pitch: 0.0
+  x: 1953.4499406633659
+  y: 63.1212968405392
+  z: 3436.536423736289
+  yaw: -176.880615234375
+  pitch: 23.59029197692871
 homes:
   home:
     world: 7e1db897-19ad-4801-bf4e-79b495ad012d
